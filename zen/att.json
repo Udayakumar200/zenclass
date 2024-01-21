@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "balu",
+      "gmail": "balu@gmail.com",
+      "course": "java",
+      "attendance %":" 75% ",
+      "no.of.dayoff":"5",
+      "date_of_absence": ["2021-10-15", "2021-11-3", "2021-09-23", "2021-10-31", "2021-2-2"]
+      
+      
+      
+    },
+    {
+      "id": 2,
+      "name": "raju",
+      "gmail": "raju@gmail.com",
+      "course": "python",
+      "attendance %":" 85% ",
+      "no.of.dayoff":"3",
+      "date_of_absence": ["2020-10-15", "2021-01-3", "2020-10-30" ]
+      
+    },
+    {
+      "id": 3,
+      "name": "rajesh",
+      "gmail": "rajesh@gmail.com",
+      "course": "java",
+      "attendance %":" 99% ",
+      "no.of.dayoff":"1",
+      "date_of_absence": ["2021-10-15"]
+      
+    },
+    {
+      "id": 4,
+      "name": "ravi",
+      "gmail": "ravi@gmail.com",
+      "course": "java",
+      "attendance %":" 95% ",
+      "no.of.dayoff":"2",
+      "date_of_absence": ["2020-10-15",  "2020-10-21"]
+      
+    }
+  ]
+  

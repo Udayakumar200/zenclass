@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "codekata_id":308,
+      "name": "balu",
+      "course_take":"java",
+      "code_solved":1000
+      
+    },
+    {
+        "id": 2,
+      "codekata_id":304,
+      "name": "raju",
+      "course_take":"python ",
+      "code_solved":1200
+      
+    },
+    {
+        "id": 4,
+      "codekata_id":304,
+      "name": "ravi",
+      "course_take":"java",
+      "code_solved":6000
+      
+    },
+    {
+        "id": 1,
+      "codekata_id":308,
+      "name": "rajesh",
+      "course_take":"java",
+      "code_solved":18999
+     
+    }
+  ]
+  

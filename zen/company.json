@@ -1,0 +1,51 @@
+[
+    {
+      "comp_id": 11,
+      "comp_name": "TaTa",
+      "sector": "IT",
+      "placementdate": "2020-10-23",
+      "job_offer": 45,
+      "student_appeared": 200
+    },
+    {
+      "comp_id": 156,
+      "comp_name": "IBM",
+      "sector": "IT",
+      "placementdate": "2020-09-13",
+      "job_offer": 124,
+      "student_appeared": 200
+    },
+    {
+      "comp_id": 111,
+      "comp_name": "RBI",
+      "sector": "IT",
+      "placementdate": "2020-10-22",
+      "job_offer": 54,
+      "student_appeared": 100
+    },
+    {
+      "comp_id": 112,
+      "comp_name": "SONY",
+      "sector": "IT",
+      "placementdate": "2020-10-30",
+      "job_offer": 45,
+      "student_appeared": 70
+    },
+    {
+      "comp_id": 142,
+      "comp_name": "ESPORT",
+      "sector": "SALES",
+      "placementdate": "2021-9-30",
+      "job_offer": 65,
+      "student_appeared": 100
+    },
+    {
+      "comp_id": 112,
+      "comp_name": "ASUS",
+      "sector": "TECH",
+      "placementdata": "2021-10-30",
+      "job_offer": 47,
+      "student_appeared": 90
+    }
+  ]
+  

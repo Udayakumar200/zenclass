@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "balu",
+      "gmail": "balu@gmail.com",
+      "course": "java",
+      "phone_number": "689065238",
+      "city": "chennai",
+      "batch_no": 12,
+      "mentee_id": 34,
+      "course_joined": "2020-12-12",
+      "course_end": "2021-12-12"
+    },
+    {
+      "id": 2,
+      "name": "raju",
+      "gmail": "raju@gmail.com",
+      "course": "python",
+      "phone_number": "987545238",
+      "city": "chennai",
+      "batch_no": 2,
+      "mentee_id": 32,
+      "course_joined": "2020-10-12",
+      "course_end": "2022-12-15"
+    },
+    {
+      "id": 3,
+      "name": "rajesh",
+      "gmail": "rajesh@gmail.com",
+      "course": "java",
+      "phone_number": "8732465238",
+      "city": "chennai",
+      "batch_no": 12,
+      "mentee_id": 34,
+      "course_joined": "2020-12-12",
+      "course_end": "2021-12-12"
+    },
+    {
+      "id": 4,
+      "name": "ravi",
+      "gmail": "ravi@gmail.com",
+      "course": "java",
+      "phone_number": "7898865678",
+      "city": "chennai",
+      "batch_no": 2,
+      "mentee_id": 32,
+      "course_joined": "2020-10-12",
+      "course_end": "2022-12-15"
+    }
+  ]
+  

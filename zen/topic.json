@@ -1,0 +1,53 @@
+{
+    "topics": {
+      "January": {
+        "java": "Java Introduction",
+        "python": "Python Introduction"
+      },
+      "February": {
+        "java": "Java Basics",
+        "python": "Python Basics"
+      },
+      "March": {
+        "java": "Java Data Structures",
+        "python": "Python Data Types"
+      },
+      "April": {
+        "java": "Java OOP Concepts",
+        "python": "Python Functions"
+      },
+      "May": {
+        "java": "Java Exception Handling",
+        "python": "Python Modules"
+      },
+      "June": {
+        "java": "Java File Handling",
+        "python": "Python File I/O"
+      },
+      "July": {
+        "java": "Java Collections",
+        "python": "Python Libraries"
+      },
+      "August": {
+        "java": "Java Multithreading",
+        "python": "Python Decorators"
+      },
+      "September": {
+        "java": "Java Networking",
+        "python": "Python Web Development"
+      },
+      "October": {
+        "java": "Java Database Connectivity",
+        "python": "Python Data Science"
+      },
+      "November": {
+        "java": "Java GUI Programming",
+        "python": "Python GUI Programming"
+      },
+      "December": {
+        "java": "Java Project Showcase",
+        "python": "Python Project Showcase"
+      }
+    }
+  }
+  
